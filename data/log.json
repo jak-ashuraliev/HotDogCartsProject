@@ -1,0 +1,16 @@
+[{
+    "Type": "LOCATION_ADD",
+    "Time": "19:32 12/1/2020",
+    "Original": "Null",
+    "New": "13202 Greenwood Ave. N. Shoreline WA"
+  }, {
+    "Type": "LOCATION_AVAILABILITY",
+    "Time": "10:31 10/1/2020",
+    "Original": "Y",
+    "New": "N"
+  }, {
+    "Type": "LOCATION_ADDRESS_CHANGE",
+    "Time": "03:31 11/8/2020",
+    "Original": "13202 Greenwood Ave. N. Shoreline WA",
+    "New": "14901 Greenwood Ave. N. Shoreline WA"
+  }]
